@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/home/officialdili/.config/herd-lite/bin/php",
+            "args": [
+                "/home/officialdili/Desktop/Development/hostel360/backend/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
